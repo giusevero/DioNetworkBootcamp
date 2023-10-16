@@ -1,0 +1,27 @@
+PODS:
+  - DioNetworkBootcamp (0.1.0)
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - DioNetworkBootcamp (from `../`)
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  DioNetworkBootcamp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DioNetworkBootcamp: 22fdb05bb8ef81bcc8d2faf8ee5d074fb9674bf7
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: d6da2ef008fe01768624f78f0ddbd9d6840237cf
+
+COCOAPODS: 1.13.0
